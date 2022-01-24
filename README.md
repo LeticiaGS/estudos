@@ -105,7 +105,7 @@ function foo (a) {
   
   function bar () {
     var age = 23
-    console.log(name) // Luca
+    console.log(name) // Lucas
     console.log(age) // 23
   }
   
